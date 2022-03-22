@@ -5,7 +5,6 @@
 
 ##### Hi, I'm Mahmoud Shetawy:
 - <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
-
 - 🎓I’m currently a computer and information (Menofia university) at my 3th year; 
 - 🤔 My interests are with iOS ,Android Developer, AI  ;
 - 👯 I’m looking to collaborate on Kaggle projects.
@@ -37,6 +36,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+<hr>
 
 ### My GitHub Stats
 [![Mahmoud-Shetawy's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Shetawy)
