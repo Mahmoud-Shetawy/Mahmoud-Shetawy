@@ -26,6 +26,10 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaFx](https://img.shields.io/badge/-JavaFx-000000?style=flat&logo=javafx)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 
 ##### Some of the technologies I have worked with
 
