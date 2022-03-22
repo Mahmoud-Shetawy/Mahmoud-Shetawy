@@ -1,9 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **Mahmoud-Shetawy/Mahmoud-Shetawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-##### Hi, I'm Mahmoud:
+##### Hi, I'm Mahmoud Shetawy:
 
 - 🎓I’m currently a computer and information (Menofia university) at my 3th year; 
 - 🤔 My interests are with iOS ,Android Developer, AI  ;
@@ -36,7 +36,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
 
