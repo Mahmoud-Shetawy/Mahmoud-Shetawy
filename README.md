@@ -3,7 +3,8 @@
 <!--
 **Mahmoud-Shetawy/Mahmoud-Shetawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-##### Hi, I'm Mahmoud Shetawy:
+## Hi, I'm Mahmoud Shetawy 👋🏼👨🏻‍💻
+
 <!-- - <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a> -->
 - 🎓I’m currently a computer and information (Menofia university) at my 3th year; 
 - 🤔 My interests are with iOS ,Android Developer, AI  ;
