@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaFx](https://img.shields.io/badge/-Css-000000?style=flat&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
