@@ -6,7 +6,7 @@
 ## Hi, I'm Mahmoud Shetawy 👋🏼👨🏻‍💻
 
 <!-- - <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a> -->
-- 🎓I’m currently a computer and information (Menofia university) at my 3th year; 
+- 🎓I’m currently a computer and information student(Menofia university) at my 3th year; 
 - 🤔 My interests are with iOS ,Android Developer, AI  ;
 - 👯 I’m looking to collaborate on Kaggle projects.
 - 💬 Ask me about anything, I am happy to help;
