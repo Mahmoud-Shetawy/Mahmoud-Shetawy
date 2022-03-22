@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on Kaggle projects.
 - 💬 Ask me about anything, I am happy to help;
 - :mailbox: You can reach me with the links below
+- <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudshetawy231@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-shetawy-337349198)
