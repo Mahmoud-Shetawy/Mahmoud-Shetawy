@@ -4,13 +4,14 @@
 **Mahmoud-Shetawy/Mahmoud-Shetawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ##### Hi, I'm Mahmoud Shetawy:
+- <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+
 
 - 🎓I’m currently a computer and information (Menofia university) at my 3th year; 
 - 🤔 My interests are with iOS ,Android Developer, AI  ;
 - 👯 I’m looking to collaborate on Kaggle projects.
 - 💬 Ask me about anything, I am happy to help;
 - :mailbox: You can reach me with the links below
-- <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudshetawy231@gmail.com)
