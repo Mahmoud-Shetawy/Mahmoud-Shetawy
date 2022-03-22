@@ -37,4 +37,9 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
+### My GitHub Stats
+
+![Mahmoud-Shetawy's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true)
+
+
 
