@@ -21,7 +21,6 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -42,7 +41,7 @@
 
 ### My GitHub Stats
 
-![Mahmoud-Shetawy's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Mahmoud-Shetawy's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Shetaw)
 
 
 
