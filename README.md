@@ -6,7 +6,7 @@
 ## Hi, I'm Mahmoud Shetawy 👋🏼👨🏻‍💻
 
 - 🎓I’m currently a computer and information student(Menofia university) at my 4th year; 
-- 🤔 My interests are with iOS ,Android Developer, AI  ;
+- 🤔 My interests are with iOS ,Android Developer, AI ,Back end(Node js)  ;
 - 👯 I’m looking to collaborate on Kaggle projects.
 - 💬 Ask me about anything, I am happy to help;
 - :mailbox: You can reach me with the links below
