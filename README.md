@@ -5,14 +5,13 @@
 
 ## Hi, I'm Mahmoud Shetawy 👋🏼👨🏻‍💻
 
-- 🎓I’m currently a computer and information student(Menofia university) at my 4th year; 
-- 🤔 My interests are with iOS ,Android Developer, AI ,Back end(Node js)  ;
-- 👯 I’m looking to collaborate on Kaggle projects.
+- 🎓I graduated from the Faculty of Computers and Information (Menofia University) and have a great interest in software engineering
+- 🤔 My interests are with Back-End, DevOps, Node.js, Express,React, Docker, Kubernetes, CI - CD ;
 - 💬 Ask me about anything, I am happy to help;
 - :mailbox: You can reach me with the links below
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudshetawy231@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudshetawy22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-shetawy-337349198)
 
 ##### Languages I use
@@ -27,7 +26,6 @@
 ![JavaFx](https://img.shields.io/badge/-JavaFx-000000?style=flat&logo=javafx)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/Mahmoud-Shetawy)](https://github.com/Mahmoud-Shetawy)
 
 
 ##### Some of the technologies I have worked with
