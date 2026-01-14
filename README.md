@@ -1,63 +1,96 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=Hi+There!+I'm+Mahmoud+Shetawy;Software+Engineer+%40+Mismar;Backend+%26+DevOps;Always+Learning+...;Writing+Clean+%26+Scalable+Code" alt="Typing SVG" />
-  
-  <p align="center">
-     Creating robust backend systems with a focus on <b>Performance</b>, <b>Security</b>, and <b>Scalability</b>.
-  </p>
 
-  <a href="https://www.linkedin.com/in/mahmoud-shetawy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+# 👋 Hello, I'm Mahmoud Shetawy
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+Mismar;Backend+%26+DevOps;Always+Learning+...;Writing+Clean+%26+Scalable+Code" alt="Typing SVG" /></a>
+
+<p align="center">
+  <b>Backend Software Engineer specialized in building robust, high-performance systems.</b><br>
+  Currently streamlining backend operations at <a href="https://mismarapp.com"><b>Mismar App</b></a>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-shetawy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahmoud.shetawy22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-<br />
-
----
-
-### 👨‍💻 About Me
-
-I am a dedicated **Backend Software Engineer** currently working at **[Mismar App](https://mismarapp.com)**.  
-With a strong foundation from **Menofia University** (CS Degree) and the **Information Technology Institute (ITI)**, I specialize in architecting efficient server-side applications.
-
-My daily routine involves designing RESTful APIs, optimizing database queries, and setting up CI/CD pipelines. I don't just write code; I build **solutions** that solve real business problems.
-
----
-
-### 🚀 My Engineering Philosophy
-
-I believe that great software is more than just working code. Here is how I approach my work:
-
-* **Clean Architecture:** I strictly follow **SOLID principles** and **Design Patterns** to ensure the code is maintainable.
-* **Performance First:** I care about response times and database indexing.
-* **Automation:** If I have to do it twice, I automate it using **Bash scripts** or **GitHub Actions**.
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-| **Backend Core** | **Languages** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br> ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-
-| **Databases** | **Frontend (Familiar)** | **Concepts** |
-|:---:|:---:|:---:|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | `OOP` `SOLID` `Design Patterns` <br>  `RESTful APIs` |
+</p>
 
 </div>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+I am a passionate **Backend Engineer** with a Computer Science degree from **Menofia University** and advanced training from the **Information Technology Institute (ITI)**. My expertise lies in designing RESTful APIs, optimizing database interactions, and establishing secure CI/CD workflows.
+
+I bridge the gap between complex backend logic and seamless user experience, ensuring that every line of code contributes to a scalable business solution.
+
+> **Current Focus:** Performance Optimization, Microservices Architecture, and Cloud Infrastructure.
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Mahmoud-Shetawy)
+### Languages & Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,java,cpp,bash&perline=10" alt="Backend and Languages" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Shetawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)](https://github.com/Mahmoud-Shetawy)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Shetawy&color=blueviolet)
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,linux,nginx&perline=10" alt="Databases and Cloud" />
 
+<br>
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,vim&perline=10" alt="Tools" />
+
+</div>
+
+<br>
+
+## 🚀 Engineering Philosophy
+
+I adhere to strict engineering standards to ensure long-term project health:
+
+| Principle | Description |
+| :--- | :--- |
+| **🏗️ Architecture** | Implementing **Clean Architecture** and **SOLID principles** to decouple dependencies and enhance testability. |
+| **⚡ Performance** | obsessed with query optimization, effective indexing, and caching strategies (Redis) for low-latency responses. |
+| **🤖 Automation** | "Automate everything." Utilizing **Bash scripts** and **GitHub Actions** to reduce manual toil and error. |
+| **🛡️ Security** | Prioritizing secure coding practices, data validation, and role-based access control from day one. |
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| **Streak Stats** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Shetawy&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff" alt="Streak" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Shetawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff&langs_count=6" alt="Languages" height="160" /> |
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="Stats" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Shetawy&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff&area=true" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ❝ Clean code always looks like it was written by someone who cares. ❞
+<i>— Robert C. Martin</i>
 </div>
