@@ -1,70 +1,63 @@
-<!--
-**Mahmoud-Shetawy/Mahmoud-Shetawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=Hi+There!+I'm+Mahmoud+Shetawy;Software+Engineer+%40+Mismar;Backend+%26+DevOps;Always+Learning+...;Writing+Clean+%26+Scalable+Code" alt="Typing SVG" />
+  
+  <p align="center">
+     Creating robust backend systems with a focus on <b>Performance</b>, <b>Security</b>, and <b>Scalability</b>.
+  </p>
 
-## 👋 Hey there! I'm Mahmoud Shetawy
+  <a href="https://www.linkedin.com/in/mahmoud-shetawy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahmoud.shetawy22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-🎓 A Computer Science graduate from Menofia University  
-📚 Currently studying in the 9-Month Professional Program at ITI (Open Source Application Development Track)  
-💡 Passionate Back-End Developer with growing DevOps skills  
-🔥 Highly motivated, fast learner, and team player—always striving to level up  
-🎯 Focused on building scalable, efficient, and clean backend solutions
-
----
-
-### 🔧 What I Work With
-
-- 🖥️ **Backend:** Node.js, Express.js, Java, MongoDB, MySQL  
-- ⚙️ **DevOps & Tools:** Docker, GitHub Actions (CI/CD), AWS (Basics), Bash Scripting  
-- 🌐 **Frontend:** React, ES6, TypeScript, jQuery, Bootstrap  
-- 🧰 **Daily Tools:** Git, GitHub, Postman, Linux  
-- 🧠 **Core Skills from ITI:** Software Testing, DB Design, OOP & SOLID Principles, UML, RESTful APIs
+<br />
 
 ---
 
-### 🧠 Languages & Technologies
+### 👨‍💻 About Me
 
-**Languages**  
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
+I am a dedicated **Backend Software Engineer** currently working at **[Mismar App](https://mismarapp.com)**.  
+With a strong foundation from **Menofia University** (CS Degree) and the **Information Technology Institute (ITI)**, I specialize in architecting efficient server-side applications.
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![ES6](https://img.shields.io/badge/-ES6-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery)
-
-**Backend & DevOps**  
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+My daily routine involves designing RESTful APIs, optimizing database queries, and setting up CI/CD pipelines. I don't just write code; I build **solutions** that solve real business problems.
 
 ---
 
-### 📫 Let's Connect!
+### 🚀 My Engineering Philosophy
 
-Feel free to reach out for collaboration, questions, or just a friendly chat!
+I believe that great software is more than just working code. Here is how I approach my work:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.shetawy22@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-shetawy)
+* **Clean Architecture:** I strictly follow **SOLID principles** and **Design Patterns** to ensure the code is maintainable.
+* **Performance First:** I care about response times and database indexing.
+* **Automation:** If I have to do it twice, I automate it using **Bash scripts** or **GitHub Actions**.
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+| **Backend Core** | **Languages** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br> ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+| **Databases** | **Frontend (Familiar)** | **Concepts** |
+|:---:|:---:|:---:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | `OOP` `SOLID` `Design Patterns` <br>  `RESTful APIs` |
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-[![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&theme=tokyonight)](https://github.com/Mahmoud-Shetawy)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Shetawy&layout=compact&theme=tokyonight)](https://github.com/Mahmoud-Shetawy)
+[![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Shetawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Mahmoud-Shetawy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Shetawy&color=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Shetawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)](https://github.com/Mahmoud-Shetawy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-Shetawy&color=blueviolet)
+
+</div>
